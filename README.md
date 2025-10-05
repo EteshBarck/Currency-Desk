@@ -1,4 +1,4 @@
-# Currency Desk — 8-way Converter (Dark)
+# Currency Desk
 
 A dark-themed Tkinter desktop app for fast currency conversion across **USD, EUR, JPY, CHF, GBP, TRY, ILS, AZN**.  
 Uses **open.er-api.com** for live rates, auto-refreshes every 60s, and falls back to a local cache when offline.
