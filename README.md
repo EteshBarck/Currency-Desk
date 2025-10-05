@@ -116,9 +116,3 @@ MIT License — see LICENSE.
 👤 Credits
 © 2025 Etesh Barck
 Built with Python/Tkinter. FX data by open.er-api.com.
-
-markdown
-Copy code
-
-If your main file isn’t under `ProjectFolder/Currency_Desk.py`, just tweak that path in the **Run** and **PyInstaller** commands.
-::contentReference[oaicite:0]{index=0}
